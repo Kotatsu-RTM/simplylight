@@ -63,7 +63,7 @@ object WallLamp: RotatableLamp("wall_lamp"){
 }
 
 
-@Mod(modid=simplylight.MODID, name=simplylight.NAME, version=simplylight.VERSION, modLanguageAdapter= "net.shadowfacts.forgelin.KotlinAdapter")
+@Mod(modid=simplylight.MODID, name=simplylight.NAME, version=simplylight.VERSION)
 object simplylight{
 
     const val MODID = "simplylight"
